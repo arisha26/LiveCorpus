@@ -1,0 +1,252 @@
+
+
+maa@
+
+# sent_id = 25
+# text = о здорово / как часто вы видетесь с братом?
+1	о	о	INTJ	_	_	_	_	_	_
+2	здорово	здорово	ADV	_	Degree=Pos	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	как	как	SCONJ	_	_	_	_	_	_
+5	часто	часто	ADV	_	Degree=Pos	_	_	_	_
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+7	видетесь	видеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	с	с	ADP	_	_	_	_	_	_
+9	братом	брат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+maa@
+
+# sent_id = 27
+# text = старшим
+1	старшим	старший	ADJ	_	Case=Ins|Degree=Pos|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 29
+# text = а со старшим
+1	а	а	INTJ	_	_	_	_	_	_
+2	со	с	ADP	_	_	_	_	_	_
+3	старшим	старший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 31
+# text = ааа / достаточно часто учитывая что он рядом / вот / а с остальными реже потому что они далеко в Йошкар-Оле
+1	ааа	аа	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	_
+4	часто	часто	ADV	_	Degree=Pos	_	_	_	_
+5	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+6	что	что	SCONJ	_	_	_	_	_
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+8	рядом	рядом	ADV	_	Degree=Pos	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	вот	вот	PART	_	_	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	а	а	CCONJ	_	_	_	_	_	_
+13	с	с	ADP	_	_	_	_	_	_
+14	остальными	остальной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+15	реже	редко	ADV	_	Degree=Cmp	_	_	_	_
+16	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+17	что	что	SCONJ	_	_	_	_	_	_
+18	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+19	далеко	далеко	ADV	_	Degree=Pos	_	_	_	_
+20	в	в	ADP	_	_	_	_	_	_
+21	Йошкар-Оле	Йошкар-Ола	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+
+maa@
+
+# sent_id = 33
+# text = а расскажите про своих родителей / кем они работают?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	расскажите	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+3	про	про	ADP	_	_	_	_	_	_
+4	своих	свой	DET	_	Case=Acc|Number=Plur	_	_	_	_
+5	родителей	родитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	кем	кто	PRON	_	Case=Ins	_	_	_	_
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+9	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 35
+# text = ааа / моя мама работает продавцов
+1	ааа	аа	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	продавцом	продавец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 37
+# text = ааа / ну / такая / себе работа / не сильно интересная / вот папа работает водителем / ездит по разным городам
+1	ааа	аа	INTJ _	
+2	/	/	PUNCT	_	_	_	_	_	_
+3	ну	ну	PART	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	себе	себя	PRON	_	Case=Dat	_	_	_	_
+8	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	не	не	PART	_	_	_	_	_	_
+11	сильно	сильно	ADV	_	Degree=Pos	_	_	_	_
+12	интересная	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	вот	вот	PART	_	_	_	_	_	_
+15	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+16	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+17	водителем	водитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	ездит	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+20	по	по	ADP	_	_	_	_	_	_
+21	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+22	городам	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+maa@
+
+# sent_id = 39
+# text = аaa
+1	аaa	аaa	INTJ _
+
+sav@
+
+# sent_id = 41
+# text = это уже интереснее
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+3	интереснее	интересный	ADJ	_	Degree=Cmp	_	_	_	SpacesAfter=\n\n
+
+maa@
+
+# sent_id = 43
+# text = а как часто вы сейчас ездиете домой / в связи с учёбой?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	как	как	ADV	_	Degree=Pos	_	_	_	_
+3	часто	часто	ADV	_	Degree=Pos	_	_	_	_
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+5	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+6	ездиете	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+7	домой	домой	ADV	_	Degree=Pos	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+11	с	с	ADP	_	_	_	_	_	_
+12	учёбой	учёба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 45
+# text = ааа / ну / раз в сессию
+1	ааа	аа	INTJ	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	ну	ну	PART	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	сессию	сессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 47
+# text = а ну раз в пару месяцев / как только появляется возможность / в свободные от учёбы дни
+1	а	а	CCONJ	_	_	_	_	_	_
+2	ну	ну	PART	_	_	_	_	_	_
+3	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+6	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	как	как	SCONJ	_	_	_	_	_	_
+9	только	только	PART	_	_	_	_	_	_
+10	появляется	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	свободные	свободный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+15	от	от	ADP	_	_	_	_	_	_
+16	учёбы	учёба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+17	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+maa@
+
+# sent_id = 49
+# text = расскажите про ваш любимый сезон
+1	расскажите	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+2	про	про	ADP	_	_	_	_	_	_
+3	ваш	ваш	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+4	любимый	любимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+5	сезон	сезон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+sav@
+
+# sent_id = 51
+# text = а мой любимый сезон / на самом деле мне всегда казалось что мой любимый / ааа сезон / ну в смысле время года / аа / весна потому что у меня весной день рождения / ноо / как выяснилось это не мой любимый время года / на самом деле мне очень нравится осень / там очень красиво / там листочки
+1	а	а	CCONJ	_	_	_	_	_	_
+2	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	сезон	сезон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	на	на	ADP	_	_	_	_	_	_
+7	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+8	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+10	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+11	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	_	_
+13	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	любимый	любимый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	ааа	аа	INTJ	_	_	_	_	_
+17	сезон	сезон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	ну	ну	PART	_	_	_	_	_	_
+20	в	в	ADP	_	_	_	_	_	_
+21	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+22	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+23	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	аа	а	INTJ	_	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	весна	весна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+28	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+29	что	что	SCONJ	_	_	_	_	_	_
+30	у	у	ADP	_	_	_	_	_	_
+31	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+32	весной	весна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+33	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+34	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	ноо	ноо	INTJ	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	как	как	SCONJ	_	_	_	_	_	_
+39	выяснилось	выясниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+40	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+41	не	не	PART	_	_	_	_	_	_
+42	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+43	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+44	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+45	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+46	/	/	PUNCT	_	_	_	_	_	_
+47	на	на	ADP	_	_	_	_	_	_
+48	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+49	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+50	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+51	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+52	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+53	осень	осень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+54	/	/	PUNCT	_	_	_	_	_	_
+55	там	там	ADV	_	Degree=Pos	_	_	_	_
+56	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+57	красиво	красиво	ADV	_	Degree=Pos	_	_	_	_
+58	/	/	PUNCT	_	_	_	_	_	_
+59	там	там	ADV	_	Degree=Pos	_	_	_	_
+60	листочки	лист	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+
